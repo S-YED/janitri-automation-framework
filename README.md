@@ -33,7 +33,7 @@ janitri-automation-framework/
 
 1. **Clone the repository:**
    ```bash
-   git clone (https://github.com/S-YED/janitri-automation-framework)
+   git clone https://github.com/S-YED/janitri-qa-automation.git
    cd janitri-automation-framework
    ```
 
