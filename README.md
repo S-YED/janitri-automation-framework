@@ -80,7 +80,7 @@ janitri-automation-framework/
 ## Configuration
 
 ### Browser Selection
-By default, tests run on Chrome. To change browser, modify the `initializeDriver()` method in `BaseTest.java`:
+By default, tests run on Brave. To change browser, modify the `initializeDriver()` method in `BaseTest.java`:
 
 ```java
 initializeDriver("brave"); 
