@@ -26,7 +26,7 @@ janitri-automation-framework/
 
 - Java 11 or higher
 - Maven 3.6 or higher
-- Chrome, Firefox, or Edge browser
+- Brave, Chrome or Firefox
 - Internet connection
 
 ## Setup Instructions
